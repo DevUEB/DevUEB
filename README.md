@@ -73,5 +73,5 @@ El área está conformada por profesionales en Ingeniería en Sistemas y carrera
 
 <p align="center">
   <strong>Universidad Estatal de Bolívar</strong><br>
-  <em>"Por la ciencia y el desarrollo del país"</em>
+  <em>"Del cambio a la transformacion"</em>
 </p>
