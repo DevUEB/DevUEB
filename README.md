@@ -43,17 +43,7 @@ Desarrollar soluciones tecnológicas de calidad que optimicen los procesos insti
 
 ---
 
-## 📂 Proyectos Institucionales
 
-Entre los sistemas desarrollados y mantenidos por el área se encuentran:
-
-- 🎓 **Sistema Académico Institucional** — Gestión de matrículas, calificaciones y récords estudiantiles.
-- 📋 **Sistema de Gestión Documental** — Control y seguimiento de documentos institucionales.
-- 🎫 **Sistema de Mesa de Ayuda (Tickets)** — Gestión de requerimientos y soporte técnico interno.
-- 🌐 **Portal Web Institucional** — Sitio oficial de la UEB (`ueb.edu.ec`).
-- 📊 **Sistemas de Reportería** — Generación de informes y estadísticas para la toma de decisiones.
-
----
 
 ## 👥 Equipo
 
