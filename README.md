@@ -1,4 +1,4 @@
-<img width="1286" height="816" alt="Área de Desarrollo de Software UEB" src="https://github.com/user-attachments/assets/f57e2428-6abb-4771-9675-30c956897d6e" />
+<img width="1287" height="816" alt="Gemini_Generated_Image_suemwhsuemwhsuem" src="https://github.com/user-attachments/assets/3ecb3dcd-cdeb-42c6-ae63-026c655f24cd" />
 
 # 💻 Área de Desarrollo de Software
 ### Universidad Estatal de Bolívar — Dirección de Tecnologías de la Información y Comunicación
