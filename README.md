@@ -1,4 +1,4 @@
-<img width="1287" height="816" alt="Gemini_Generated_Image_suemwhsuemwhsuem" src="https://github.com/user-attachments/assets/3ecb3dcd-cdeb-42c6-ae63-026c655f24cd" />
+<img width="1287" height="581" alt="Gemini_Generated_Image_suemwhsuemwhsuem 1" src="https://github.com/user-attachments/assets/56f2236f-b9a5-44b0-b039-4da816475cd3" />
 
 # 💻 Área de Desarrollo de Software
 ### Universidad Estatal de Bolívar — Dirección de Tecnologías de la Información y Comunicación
